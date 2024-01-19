@@ -1,3 +1,6 @@
+# E-Commerce Mobile Project
+This project is an e-commerce example developed on iPhone 15 with React Native.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
