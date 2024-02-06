@@ -1,5 +1,5 @@
 # E-Commerce Mobile Project
-This project is an e-commerce example developed on iPhone 15 with React Native. Data transferred from API.
+This project is an e-commerce example developed on iPhone 15 with React Native. Data transferred from API. Created with TS.
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
